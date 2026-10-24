@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date: 28.09.2026git
+## Date: 28.09.2026
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the Windows Specifications of your Laptop.
